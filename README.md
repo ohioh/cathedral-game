@@ -2,16 +2,4 @@
 
 Wikipedia-Side [Cathedral Game]([https://duckduckgo.com](https://en.wikipedia.org/wiki/Cathedral_(board_game)) "Everything about Cathedral board game").
 
-![The San Juan Mountains are beautiful!]([/assets/images/san-juan-mountains.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png) "Cathedral Sets")
-
-[![Cathedral Set](/assets/images/shiprock.jpg "Cathedral set")](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png)
-
-<div class="pull-right">
-![Kunst]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png))
-
-</div>
-
-
-<div class="pull-left">
-1. http://www.steppix.com/wp-content/uploads/2018/01/pexels-photo-272187.jpeg
-<div class="pull-left">
+https://github.com/ohioh/cathedral-game/issues/1#issue-1385866605
