@@ -4,4 +4,4 @@ Wikipedia-Side [Cathedral Game]([https://duckduckgo.com](https://en.wikipedia.or
 
 
 
-![alt text](https://github.com/ohioh/cathedral-game/issues/1#issue-1385866605)
+![alt text](https://user-images.githubusercontent.com/63347689/192260496-e341b887-1367-4dfb-a361-4217bbdde78a.png)
