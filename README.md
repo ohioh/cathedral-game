@@ -10,3 +10,8 @@ Wikipedia-Side [Cathedral Game]([https://duckduckgo.com](https://en.wikipedia.or
 ![Kunst]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png))
 
 </div>
+
+
+<div class="pull-left">
+1. http://www.steppix.com/wp-content/uploads/2018/01/pexels-photo-272187.jpeg
+<div class="pull-left">
