@@ -7,6 +7,6 @@ Wikipedia-Side [Cathedral Game]([https://duckduckgo.com](https://en.wikipedia.or
 [![Cathedral Set](/assets/images/shiprock.jpg "Cathedral set")](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png)
 
 <div class="pull-right">
-![Kunst]([http://www.steppix.com/wp-content/uploads/2018/01/pexels-photo-368774.jpeg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png))
+![Kunst]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cathedral_game_pieces.svg/768px-Cathedral_game_pieces.svg.png))
 
 </div>
